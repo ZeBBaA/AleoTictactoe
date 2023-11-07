@@ -1,6 +1,6 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
-Discord username: zebba6695
+My Discord username: zebba6695
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
